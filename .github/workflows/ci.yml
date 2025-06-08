@@ -39,6 +39,11 @@ jobs:
         pip install --upgrade pip
         pip install -r requirements-dev.txt
 
+    - name: Run Safety scan
+      run: |
+        pip install safety
+        safety check -r requirements.txt --full-report
+
     - name: Run tests
       run: |
         pytest

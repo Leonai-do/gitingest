@@ -1,9 +1,12 @@
 click>=8.0.0
-fastapi[standard]>=0.109.1  # Vulnerable to https://osv.dev/vulnerability/PYSEC-2024-38
+fastapi[standard]==0.110.0 \
+    --hash=sha256:87a1f6fb632a218222c5984be540055346a8f5d8a68e8f6fb647b1dc9934de4b
 pydantic
 python-dotenv
 slowapi
-starlette>=0.40.0  # Vulnerable to https://osv.dev/vulnerability/GHSA-f96h-pmfr-66vw
+starlette==0.41.3 \
+    --hash=sha256:44cedb2b7c77a9de33a8b74b2b90e9f50d11fcf25d8270ea525ad71a25374ff7
 tiktoken
 tomli
-uvicorn>=0.11.7  # Vulnerable to https://osv.dev/vulnerability/PYSEC-2020-150
+uvicorn==0.34.3 \
+    --hash=sha256:16246631db62bdfbf069b0645177d6e8a77ba950cfedbfd093acef9444e4d885
