@@ -3,6 +3,7 @@
 [![Image](./docs/frontpage.png "Gitingest main page")](https://gitingest.com)
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/cyclotruc/gitingest/blob/main/LICENSE)
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/cyclotruc/gitingest/badge)](https://securityscorecards.dev/viewer/?uri=github.com/cyclotruc/gitingest)
 [![PyPI version](https://badge.fury.io/py/gitingest.svg)](https://badge.fury.io/py/gitingest)
 [![GitHub stars](https://img.shields.io/github/stars/cyclotruc/gitingest?style=social.svg)](https://github.com/cyclotruc/gitingest)
 [![Downloads](https://pepy.tech/badge/gitingest)](https://pepy.tech/project/gitingest)
@@ -157,6 +158,10 @@ If you are hosting it on a domain, you can specify the allowed hostnames via env
 ### Technical ways to contribute
 
 Gitingest aims to be friendly for first time contributors, with a simple Python and HTML codebase. If you need any help while working with the code, reach out to us on [Discord](https://discord.com/invite/zerRaGK9EC). For detailed instructions on how to make a pull request, see [CONTRIBUTING.md](./CONTRIBUTING.md).
+
+## 🔒 Security
+
+For information on how to responsibly disclose security issues, please see our [SECURITY.md](./SECURITY.md).
 
 ## 🛠️ Stack
 
