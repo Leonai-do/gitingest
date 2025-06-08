@@ -151,7 +151,7 @@ WSL 2 users **must clone on ext4** (e.g. `~/dev/...`).
 
 ## 🚀 Project growth
 
-![Stars over time](https://starchart.cc/cyclotruc/gitingest.svg)
+[![Stargazers over time](https://starchart.cc/Leonai-do/gitingest.svg?variant=adaptive)](https://starchart.cc/Leonai-do/gitingest)
 
 (Star history chart courtesy of [https://starchart.cc](https://starchart.cc).)
 
